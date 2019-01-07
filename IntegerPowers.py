@@ -1,4 +1,4 @@
-"""Implement integer exponentiation that is not the naive method of repeated multiplication"""
+"""Problem #61: Implement integer exponentiation that is not the naive method of repeated multiplication"""
 
 def intpow(base, power):
 	if power is 0:
