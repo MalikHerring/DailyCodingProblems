@@ -1,4 +1,4 @@
-Daily Coding Problems
+## Daily Coding Problems
 
 * Author: Malik Herring
 * Problem Providers: https://www.dailycodingproblem.com/
