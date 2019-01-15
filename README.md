@@ -3,7 +3,7 @@ Daily Coding Problems
 * Author: Malik Herring
 * Problem Providers: https://www.dailycodingproblem.com/
 
-##Overview
+## Overview
 
 This repository will consist of problems provided by Daily Coding Problem.
 Each will have the question posted in the comments above the function. If 
