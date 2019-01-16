@@ -1,3 +1,10 @@
+"""Problem #61 from DailyCodingProblem.com
+
+Implement integer exponentiation. That is, implement the pow(x, y) function, 
+where x and y are integers and returns x^y.
+
+"""
+
 def intpow(base, power):
 	"""Used to calculate integer exponentiation
 	
