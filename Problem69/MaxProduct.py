@@ -1,4 +1,4 @@
-def DailyCodingProblem(int_list):
+def max_product(int_list):
   """Finds the largest product of any 3 numbers from a list
   
   Given a list of integers, return the largest product that 
